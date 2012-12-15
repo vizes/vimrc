@@ -1,0 +1,365 @@
+# Diese viminfo-Datei wurde von Vim 7.3 generiert.
+# Sie können sie verändern, wenn Sie vorsichtig vorgehen!
+
+# Wert von 'encoding', als diese Datei geschrieben wurde
+*encoding=latin1
+
+
+# hlsearch on (H) or off (h):
+~h
+# Letztes Substitute Suchmuster:
+~MSle0~&\V\C;
+
+# Letzte ersetzte Zeichenkette:
+$,
+
+# Befehlszeile Geschichte (neueste bis älteste):
+:wq
+:set number
+:color wombat256mod
+:color wombat256
+:color morning
+:tabe $MYVIMRC
+:w
+:tabe ~/$HOME/_vimrc
+:tabe $HOME/_vimrc
+:w test.php
+:tabe 
+:help!
+:w!
+:help vimrc
+:q!
+
+# Suchausdruck Geschichte (neueste bis älteste):
+? \V\C;
+
+# Ausdruck Geschichte (neueste bis älteste):
+
+# Eingabe-Zeile Geschichte (neueste bis älteste):
+
+# Eingabe-Zeile Geschichte (neueste bis älteste):
+
+# Register:
+"0	CHAR	0
+	have been added: multi-level undo, syntax highlighting, command line history,
+	on-line help, spell checking, filename completion, block operations, etc.
+	There is also a Graphical User Interface (GUI) available.  See
+	"runtime/doc/vi_diff.txt" for differences with Vi.
+	
+""1	LINE	0
+	dd:wq
+"2	LINE	0
+	" set status line
+"3	LINE	0
+	set statusline=%F%m%r%h%w\ [FORMAT=%{&ff}]\ [TYPE=%Y]\ [ASCII=\%03.3b]\ [HEX=\%02.2B]\ [POS=%04l,%04v][%p%%]\ [LEN=%L]
+"4	LINE	0
+	set transparency=15
+"5	LINE	0
+	[...]
+"6	LINE	0
+	    set wildignore+=*.a,*.o
+"7	LINE	0
+	    " Ignore stuff (for TAB autocompletion)
+"8	LINE	0
+	    set wildmode=longest,list
+"9	LINE	0
+	    set wildmenu
+"-	CHAR	0
+	s
+
+# Datei-Marken:
+'0  1  0  ~\.ssh\known_hosts
+'1  1  0  ~\_vimrc
+'2  1  0  C:\Program Files (x86)\Vim\vim73\gvim.exe
+'3  12  0  ~\_vimrc
+'4  6  0  ~\_vimrc
+'5  14  18  ~\_vimrc
+'6  7  0  ~\_vimrc
+'7  31  0  ~\Downloads\pythonGUI.py
+'8  1  0  ~\Dropbox\SE_BB\3_Semester\SWO_SWB\Kurztests\loesung_vz_daniel_holzmann.c
+'9  1  0  ~\Dropbox\FH\3.Semester\SWO\UE4\1-backup\WDG_ADT_M.c
+
+# Geschichte (neueste zuerst):
+-'  1  0  ~\.ssh\known_hosts
+-'  1  0  ~\_vimrc
+-'  1  0  C:\Program Files (x86)\Vim\vim73\gvim.exe
+-'  12  0  ~\_vimrc
+-'  6  0  ~\_vimrc
+-'  14  18  ~\_vimrc
+-'  7  0  ~\_vimrc
+-'  3  0  ~\_vimrc
+-'  747  8  C:\Program Files (x86)\Vim\vim73\doc\starting.txt
+-'  1  0  C:\Program Files (x86)\Vim\vim73\doc\starting.txt
+-'  5  0  C:\Program Files (x86)\Vim\vim73\README.txt
+-'  2  0  C:\Program Files (x86)\Vim\vim73\README.txt
+-'  3  0  C:\Program Files (x86)\Vim\vim73\README.txt
+-'  11  0  C:\Program Files (x86)\Vim\vim73\README.txt
+-'  16  0  C:\Program Files (x86)\Vim\vim73\README.txt
+-'  21  0  C:\Program Files (x86)\Vim\vim73\README.txt
+-'  23  0  C:\Program Files (x86)\Vim\vim73\README.txt
+-'  20  0  C:\Program Files (x86)\Vim\vim73\README.txt
+-'  1  0  C:\Program Files (x86)\Vim\vim73\README.txt
+-'  31  0  ~\Downloads\pythonGUI.py
+-'  1  0  ~\Downloads\pythonGUI.py
+-'  15  44  ~\Downloads\pythonGUI.py
+-'  1  0  ~\Dropbox\SE_BB\3_Semester\SWO_SWB\Kurztests\loesung_vz_daniel_holzmann.c
+-'  1  0  ~\Dropbox\FH\3.Semester\SWO\UE4\1-backup\WDG_ADT_M.c
+-'  1  2  ~\Dropbox\FH\3.Semester\SWO\UE4\1-b\graph.gml
+-'  19  0  ~\Dropbox\SE_BB\3_Semester\SWO_SWB\_Vorgänger\Übungen\U3_1_GRAPHS\graphs.c
+-'  1  0  ~\Dropbox\SE_BB\3_Semester\SWO_SWB\_Vorgänger\Übungen\U3_1_GRAPHS\graphs.c
+-'  34  0  ~\Dropbox\SE_BB\3_Semester\SWO_SWB\_Vorgänger\Übungen\U3_1_GRAPHS\dg_ads_l.c
+-'  1  0  ~\Dropbox\SE_BB\3_Semester\SWO_SWB\_Vorgänger\Übungen\U3_1_GRAPHS\dg_ads_l.c
+-'  1  0  \\webdav.fh-hagenberg.at@SSL\DavWWWRoot\students\Exchange\SE\LVA\etzl\ue04\reader.c
+-'  42  0  C:\Windows\System32\drivers\etc\hosts
+-'  1  0  C:\Windows\System32\drivers\etc\hosts
+-'  1  0  ~\Downloads\videos\20121007_192554.mp4
+-'  1  0  ~\Downloads\videos\20121007_165055.mp4
+-'  97  0  ~\Desktop\slimftpd\slimftpd.conf
+-'  84  0  ~\Desktop\slimftpd\slimftpd.conf
+-'  81  0  ~\Desktop\slimftpd\slimftpd.conf
+-'  1  0  ~\Desktop\slimftpd\slimftpd.conf
+-'  85  0  ~\Desktop\slimftpd\slimftpd.xml
+-'  1  0  ~\Desktop\slimftpd\slimftpd.xml
+-'  1  0  ~\Dropbox\FH\3.Semester\WDG3\Uebungen\HTML\basics_html5.html
+-'  1  0  ~\Dropbox\FH\3.Semester\WDG3\Uebungen\HTML\basics.html
+-'  1  0  ~\Dropbox\FH\3.Semester\WDG3\Uebungen\HTML\simple1.html
+-'  80  0  C:\Program Files (x86)\Umlet\sourcefiles\src\com\baselet\shared\Matrix.java
+-'  1  0  C:\Program Files (x86)\Umlet\sourcefiles\src\com\baselet\shared\Matrix.java
+-'  23  0  C:\Program Files (x86)\Umlet\custom_elements\WordWrap.java
+-'  1  0  C:\Program Files (x86)\Umlet\custom_elements\WordWrap.java
+-'  32  0  C:\Program Files (x86)\Umlet\sourcefiles\custom_elements\Default.java
+-'  1  0  C:\Program Files (x86)\Umlet\sourcefiles\custom_elements\Default.java
+-'  1  0  C:\Program Files (x86)\Umlet\palettes\Class.uxf
+-'  23  0  C:\Program Files (x86)\Umlet\custom_elements\Default.java
+-'  1  0  C:\Program Files (x86)\Umlet\custom_elements\Default.java
+-'  87  0  ~\Dropbox\SE_BB\3_Semester\SWO_SWB\_Vorgänger\Übungen\U2_1_ROMANS\romans.c
+-'  1  0  ~\Dropbox\SE_BB\3_Semester\SWO_SWB\_Vorgänger\Übungen\U2_1_ROMANS\romans.c
+-'  1  0  ~\Dropbox\SE_BB\3_Semester\SWO_SWB\_Vorgänger\Übungen\U2_1_ROMANS\romans_main.c
+-'  3  0  ~\Dropbox\SE_BB\3_Semester\SWO_SWB\_Vorgänger\Übungen\U2_1_ROMANS\romans.h
+-'  1  0  ~\Dropbox\SE_BB\3_Semester\SWO_SWB\_Vorgänger\Übungen\U2_1_ROMANS\romans.h
+-'  1  0  ~\Dropbox\SE_BB\3_Semester\SWO_SWB\_Vorgänger\Übungen\U2_1_ROMANS\Debug\makefile
+-'  24  0  ~\Dropbox\SE_BB\3_Semester\SWO_SWB\Übungen\etzl\Prg\Makefile
+-'  13  0  ~\Dropbox\SE_BB\3_Semester\SWO_SWB\Übungen\etzl\touch\makefile
+-'  1  0  ~\Dropbox\SE_BB\3_Semester\SWO_SWB\Übungen\etzl\touch\makefile
+-'  1  0  ~\Dropbox\SE_BB\3_Semester\SWO_SWB\Übungen\etzl\Prg\Makefile
+-'  11  0  ~\Dropbox\SE_BB\3_Semester\SWO_SWB\Übungen\etzl\Prg\Makefile
+-'  3  0  E:\University_of_Applied_Sciences_2034045768893844_vp-uml_8-3_se.zvpl
+-'  1  0  E:\University_of_Applied_Sciences_2034045768893844_vp-uml_8-3_se.zvpl
+-'  1  0  ~\Downloads\reg_tessataylor.wmv
+-'  198  0  ~\Dropbox\Vokabel.csv
+-'  22  0  ~\Dropbox\Vokabel.csv
+-'  1  0  ~\Dropbox\Vokabel.csv
+-'  1  0  ~\Desktop\words_job_company.csv
+-'  1  0  ~\Desktop\words_job_company.csv.db
+-'  23  0  ~\Desktop\pyweb.py
+-'  1  0  ~\Desktop\pyweb.py
+-'  1  0  ~\Desktop\ele.py
+-'  4  0  ~\Dropbox\FH\ADF2\ADF2_UE6\hello.bf
+-'  1  0  ~\Dropbox\FH\ADF2\ADF2_UE6\hello.bf
+-'  1  0  C:\FH\hello.bf
+-'  1  0  C:\FH\hello
+-'  747  8  C:\Program Files (x86)\Vim\vim73\doc\starting.txt
+-'  1  0  C:\Program Files (x86)\Vim\vim73\doc\starting.txt
+-'  5  0  C:\Program Files (x86)\Vim\vim73\README.txt
+-'  2  0  C:\Program Files (x86)\Vim\vim73\README.txt
+-'  3  0  C:\Program Files (x86)\Vim\vim73\README.txt
+-'  11  0  C:\Program Files (x86)\Vim\vim73\README.txt
+-'  16  0  C:\Program Files (x86)\Vim\vim73\README.txt
+-'  21  0  C:\Program Files (x86)\Vim\vim73\README.txt
+-'  23  0  C:\Program Files (x86)\Vim\vim73\README.txt
+-'  20  0  C:\Program Files (x86)\Vim\vim73\README.txt
+-'  1  0  C:\Program Files (x86)\Vim\vim73\README.txt
+-'  31  0  ~\Downloads\pythonGUI.py
+-'  1  0  ~\Downloads\pythonGUI.py
+-'  15  44  ~\Downloads\pythonGUI.py
+-'  1  0  ~\Dropbox\SE_BB\3_Semester\SWO_SWB\Kurztests\loesung_vz_daniel_holzmann.c
+-'  1  0  ~\Dropbox\FH\3.Semester\SWO\UE4\1-backup\WDG_ADT_M.c
+-'  1  2  ~\Dropbox\FH\3.Semester\SWO\UE4\1-b\graph.gml
+-'  19  0  ~\Dropbox\SE_BB\3_Semester\SWO_SWB\_Vorgänger\Übungen\U3_1_GRAPHS\graphs.c
+-'  1  0  ~\Dropbox\SE_BB\3_Semester\SWO_SWB\_Vorgänger\Übungen\U3_1_GRAPHS\graphs.c
+-'  1  0  ~\_vimrc
+
+# Geschichte der Markierungen innerhalb von Dateien (neueste zuerst):
+
+> ~\.ssh\known_hosts
+	"	1	0
+
+> ~\_vimrc
+	"	1	0
+	.	13	0
+	+	3	0
+	+	5	9
+	+	7	2
+	+	7	120
+	+	7	17
+	+	7	0
+	+	14	0
+	+	7	7
+	+	13	0
+
+> C:\Program Files (x86)\Vim\vim73\colors\wombat256.vim
+	"	1	0
+
+> C:\Program Files (x86)\Vim\vim73\gvim.exe
+	"	1	0
+
+> C:\Program Files (x86)\Vim\vim73\README.txt
+	"	5	0
+	^	4	10
+	.	6	0
+	+	7	0
+	+	5	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	6	0
+
+> C:\Program Files (x86)\Vim\vim73\doc\starting.txt
+	"	747	8
+
+> ~\Downloads\pythonGUI.py
+	"	31	0
+
+> ~\Dropbox\SE_BB\3_Semester\SWO_SWB\Kurztests\loesung_vz_daniel_holzmann.c
+	"	1	0
+
+> ~\Dropbox\SE_BB\3_Semester\SWO_SWB\Kurztests\loesung_vz_v2_daniel_holzmann.c
+	"	1	0
+
+> ~\Dropbox\FH\3.Semester\SWO\UE4\1-backup\WDG_ADT_M.c
+	"	1	0
+
+> ~\Dropbox\FH\3.Semester\SWO\UE4\1-b\graph.gml
+	"	1	2
+
+> ~\Dropbox\SE_BB\3_Semester\SWO_SWB\_Vorgänger\Übungen\U3_1_GRAPHS\graphs.c
+	"	19	0
+
+> ~\Dropbox\SE_BB\3_Semester\SWO_SWB\_Vorgänger\Übungen\U3_1_GRAPHS\dg_ads_l.c
+	"	34	0
+
+> \\webdav.fh-hagenberg.at@SSL\DavWWWRoot\students\Exchange\SE\LVA\etzl\ue04\reader.c
+	"	1	0
+
+> C:\Windows\System32\drivers\etc\hosts
+	"	42	0
+
+> ~\Downloads\videos\20121007_192554.mp4
+	"	1	0
+
+> ~\Downloads\videos\20121007_165055.mp4
+	"	1	0
+
+> ~\Desktop\slimftpd\slimftpd.conf
+	"	97	0
+	^	97	0
+	.	97	0
+	+	76	0
+	+	77	0
+	+	81	0
+	+	76	10
+	+	77	13
+	+	88	0
+	+	97	0
+
+> ~\Desktop\slimftpd\slimftpd.xml
+	"	85	0
+
+> ~\Dropbox\FH\3.Semester\WDG3\Uebungen\HTML\basics_html5.html
+	"	1	0
+
+> ~\Dropbox\FH\3.Semester\WDG3\Uebungen\HTML\basics.html
+	"	1	0
+
+> ~\Dropbox\FH\3.Semester\WDG3\Uebungen\HTML\simple1.html
+	"	1	0
+
+> C:\Program Files (x86)\Umlet\sourcefiles\src\com\baselet\shared\Matrix.java
+	"	80	0
+
+> C:\Program Files (x86)\Umlet\custom_elements\WordWrap.java
+	"	23	0
+
+> C:\Program Files (x86)\Umlet\sourcefiles\custom_elements\Default.java
+	"	32	0
+
+> C:\Program Files (x86)\Umlet\palettes\Class.uxf
+	"	1	0
+
+> C:\Program Files (x86)\Umlet\custom_elements\Default.java
+	"	23	0
+
+> ~\Dropbox\SE_BB\3_Semester\SWO_SWB\_Vorgänger\Übungen\U2_1_ROMANS\romans.c
+	"	87	0
+
+> ~\Dropbox\SE_BB\3_Semester\SWO_SWB\_Vorgänger\Übungen\U2_1_ROMANS\romans_main.c
+	"	1	0
+
+> ~\Dropbox\SE_BB\3_Semester\SWO_SWB\_Vorgänger\Übungen\U2_1_ROMANS\romans.h
+	"	3	0
+
+> ~\Dropbox\SE_BB\3_Semester\SWO_SWB\_Vorgänger\Übungen\U2_1_ROMANS\Debug\makefile
+	"	1	0
+
+> ~\Dropbox\SE_BB\3_Semester\SWO_SWB\Übungen\etzl\Prg\Makefile
+	"	24	0
+
+> ~\Dropbox\SE_BB\3_Semester\SWO_SWB\Übungen\etzl\touch\makefile
+	"	13	0
+
+> E:\University_of_Applied_Sciences_2034045768893844_vp-uml_8-3_se.zvpl
+	"	3	0
+
+> ~\Dropbox\Vokabel.csv
+	"	198	0
+	.	1	0
+	+	1	0
+
+> ~\Desktop\words_job_company.csv
+	"	1	0
+
+> ~\Desktop\words_job_company.csv.db
+	"	1	0
+
+> ~\Desktop\pyweb.py
+	"	23	0
+
+> ~\Desktop\ele.py
+	"	1	0
+
+> ~\Dropbox\FH\ADF2\ADF2_UE6\hello.bf
+	"	4	0
+
+> C:\FH\hello.bf
+	"	1	0
+
+> C:\FH\hello
+	"	1	0
+
+> ~\Dropbox\FH\ADF2\ADF2_UE5\MarathonResults.txt
+	"	3	5
+
+> C:\Python27\Scripts\pygmentize.cmd
+	"	3	59
+	^	3	59
+	.	3	59
+	+	3	59
+
+> ~\Dropbox\FH\ADF2\ADF2_UE3\rle.tmp
+	"	1	0
+
+> ~\Desktop\print ADE\CDLList.pas
+	"	1	0
+
+> ~\AppData\Local\BITE3AA.tmp
+	"	1	0
+
+> C:\hallo.java
+	"	1	0
+	^	1	14
+	.	1	14
+	+	7	0
+	+	1	14
+
+> C:\hallo.class
+	"	1	0
